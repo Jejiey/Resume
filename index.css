@@ -1,0 +1,12 @@
+.Left{
+    display: flex;
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.Right {
+    display: flex;
+    width: 50%;
+    height: 100%;
+    float: right;
+}
